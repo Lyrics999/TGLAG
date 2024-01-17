@@ -1,0 +1,9 @@
+mae,station,model
+2.170762572,Suining,CNN-GRU-luong attention
+2.215451887,Gaoyou,CNN-GRU-luong attention
+1.987329977,Nantong,CNN-GRU-luong attention
+2.043658478,Kunshan,CNN-GRU-luong attention
+1.62161539,Suining,T-GCN-Luong Attention
+1.364773148,Gaoyou,T-GCN-Luong Attention
+1.502226735,Nantong,T-GCN-Luong Attention
+1.491567714,Kunshan,T-GCN-Luong Attention

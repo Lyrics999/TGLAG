@@ -1,0 +1,9 @@
+rmse,station,model
+2.359946424,Suining,T-GCN-Self Attenion
+2.08595626,Gaoyou,T-GCN-Self Attenion
+2.084912375,Nantong,T-GCN-Self Attenion
+2.12650666,Kunshan,T-GCN-Self Attenion
+2.080551166,Suining,T-GCN-Luong Attention
+1.788060614,Gaoyou,T-GCN-Luong Attention
+2.009070688,Nantong,T-GCN-Luong Attention
+1.962377355,Kunshan,T-GCN-Luong Attention

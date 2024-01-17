@@ -1,0 +1,9 @@
+mae,station,model
+1.954 ,Suining,T-GCN-Self Attenion
+1.628 ,Gaoyou,T-GCN-Self Attenion
+1.555 ,Nantong,T-GCN-Self Attenion
+1.665 ,Kunshan,T-GCN-Self Attenion
+1.622 ,Suining,T-GCN-Luong Attention
+1.365 ,Gaoyou,T-GCN-Luong Attention
+1.502 ,Nantong,T-GCN-Luong Attention
+1.492 ,Kunshan,T-GCN-Luong Attention

@@ -1,0 +1,9 @@
+rmse,station,model
+2.781800293,Suining,CNN-GRU-luong attention
+2.997246159,Gaoyou,CNN-GRU-luong attention
+2.636088164,Nantong,CNN-GRU-luong attention
+2.693539036,Kunshan,CNN-GRU-luong attention
+2.080551166,Suining,T-GCN-Luong Attention
+1.788060614,Gaoyou,T-GCN-Luong Attention
+2.009070688,Nantong,T-GCN-Luong Attention
+1.962377355,Kunshan,T-GCN-Luong Attention
